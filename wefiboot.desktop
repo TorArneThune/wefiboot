@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Windows EFI Boot
+Comment=Reboot into Windows when using EFI
+Exec=gksudo /usr/sbin/wefiboot.sh
+Icon=windows-10.svg
